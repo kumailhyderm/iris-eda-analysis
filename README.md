@@ -1,12 +1,12 @@
-Iris Dataset - Exploratory Data Analysis (EDA)
+**Iris Dataset - Exploratory Data Analysis (EDA)**
 
 A beginner-friendly data analysis project using the classic **Iris dataset**. This notebook walks through loading, exploring, and visualizing the data to uncover patterns across three flower species.
 
 
 
-Project Overview
+**Project Overview**
 
-The Iris dataset contains 150 samples from three species of iris flowers (setosa, versicolor, virginica), with four features measured per sample: sepal length, sepal width, petal length, and petal width.
+The Iris dataset contains 150 samples from three species of iris flowers (**setosa, versicolor, virginica**), with four features measured per sample: sepal length, sepal width, petal length, and petal width.
 
 This project performs:
 - Data loading & inspection
@@ -15,7 +15,7 @@ This project performs:
 
 
 
- Visualizations
+ **Visualizations**
 
 | Chart | Insight |
 |---|---|
@@ -25,7 +25,7 @@ Box Plot – Petal Length by Species | Versicolor and Virginica show some overla
 
 
 
-Tech Stack
+**Tech Stack**
 
 - Python 3.x
 - [Pandas](https://pandas.pydata.org/) — data manipulation
