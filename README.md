@@ -52,6 +52,6 @@ pip install pandas matplotlib seaborn
 jupyter notebook task1_iris_analysis.ipynb
 ```
 
----
+![Iris Scatter Plot](images/scatter_plot.png)
 
 ## 📁 File Structure
