@@ -17,6 +17,9 @@ This project performs:
 
  **Visualizations**
 
+### Sepal Length vs Petal Length
+![Scatter Plot](https://raw.githubusercontent.com/kumailhyderm/iris-eda-analysis/main/scatter_plot.png) 
+
 | Chart | Insight |
 |---|---|
 Scatter Plot – Sepal Length vs Petal Length | Setosa flowers clearly cluster with shorter petals |
@@ -52,13 +55,12 @@ pip install pandas matplotlib seaborn
 jupyter notebook task1_iris_analysis.ipynb
 ```
 
-![Iris Scatter Plot](images/scatter_plot.png)
 
 ## File Structure
 
 iris-eda-analysis/
 │
-└── task1_iris_analysis.ipynb   # Main analysis notebook
+└── task1_iris_analysis.ipynb
 
 ---
 
