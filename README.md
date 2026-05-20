@@ -58,9 +58,10 @@ jupyter notebook task1_iris_analysis.ipynb
 
 ## File Structure
 
+```bash
 iris-eda-analysis/
-│
 └── task1_iris_analysis.ipynb
+```
 
 ---
 
