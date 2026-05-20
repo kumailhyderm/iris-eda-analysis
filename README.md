@@ -54,4 +54,30 @@ jupyter notebook task1_iris_analysis.ipynb
 
 ![Iris Scatter Plot](images/scatter_plot.png)
 
-## 📁 File Structure
+## 📁 File Structureiris-eda-analysis/
+│
+└── task1_iris_analysis.ipynb   # Main analysis notebook
+
+---
+
+## 📚 Dataset
+
+The Iris dataset is built into Seaborn and loaded directly via:
+```python
+df = sns.load_dataset('iris')
+```
+Original dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+
+---
+
+## 🙋 Author
+
+**Muhammad Kumail Haider**  
+[GitHub](https://github.com/kumailhyderm) · [LinkedIn](https://linkedin.com/in/kumailhyderr)
+
+---
+
+## 📄 License
+
+This project is open-source under the [MIT License](LICENSE).
+
