@@ -54,13 +54,14 @@ jupyter notebook task1_iris_analysis.ipynb
 
 ![Iris Scatter Plot](images/scatter_plot.png)
 
-## 📁 File Structureiris-eda-analysis/
+## File Structure
+iris-eda-analysis/
 │
 └── task1_iris_analysis.ipynb   # Main analysis notebook
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 The Iris dataset is built into Seaborn and loaded directly via:
 ```python
@@ -70,7 +71,7 @@ Original dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/
 
 ---
 
-## 🙋 Author
+## Author
 
 **Muhammad Kumail Haider**  
 [GitHub](https://github.com/kumailhyderm) · [LinkedIn](https://linkedin.com/in/kumailhyderr)
