@@ -78,7 +78,7 @@ Original dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/
 ## Author
 
 **Muhammad Kumail Haider**  
-[GitHub](https://github.com/kumailhyderm) · [LinkedIn](https://linkedin.com/in/kumailhyderr)
+[GitHub](https://github.com/kumailhyderm) · [LinkedIn](https://linkedin.com/in/kumailhyderm)
 
 ---
 
