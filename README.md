@@ -22,18 +22,18 @@ This project performs:
 
 | Chart | Insight |
 |---|---|
-Scatter Plot – Sepal Length vs Petal Length | Setosa flowers clearly cluster with shorter petals |
-Histogram – Sepal Length Distribution | Sepal length is roughly normally distributed |
-Box Plot – Petal Length by Species | Versicolor and Virginica show some overlap; Setosa is distinct |
+Scatter Plot - Sepal Length vs Petal Length | Setosa flowers clearly cluster with shorter petals |
+Histogram - Sepal Length Distribution | Sepal length is roughly normally distributed |
+Box Plot - Petal Length by Species | Versicolor and Virginica show some overlap; Setosa is distinct |
 
 
 
 **Tech Stack**
 
 - Python 3.x
-- [Pandas](https://pandas.pydata.org/) — data manipulation
-- [Matplotlib](https://matplotlib.org/) — base plotting
-- [Seaborn](https://seaborn.pydata.org/) — statistical visualizations
+- [Pandas](https://pandas.pydata.org/)  data manipulation
+- [Matplotlib](https://matplotlib.org/)  base plotting
+- [Seaborn](https://seaborn.pydata.org/)  statistical visualizations
 
 
 
@@ -82,7 +82,7 @@ Original dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the [MIT License](LICENSE).
 
